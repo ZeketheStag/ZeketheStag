@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeketheStag
+- 👋 Hi, I’m @Zekethestag
 - 👀 I’m interested in ...DevOps
 - 🌱 I’m currently learning ...Cloud Computing
 - 💞️ I’m looking to collaborate on ...
